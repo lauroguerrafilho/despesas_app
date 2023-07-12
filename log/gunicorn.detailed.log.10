@@ -1,0 +1,49 @@
+[2023-07-11 18:48:47,162] INFO _log() L187  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.15.9:5000 - call_trace=C:\Users\lauro\Documents\lauro\Sistemas\despesas_app\Lib\site-packages\werkzeug\_internal.py L187 
+[2023-07-11 18:48:47,168] INFO _log() L187  [33mPress CTRL+C to quit[0m - call_trace=C:\Users\lauro\Documents\lauro\Sistemas\despesas_app\Lib\site-packages\werkzeug\_internal.py L187 
+[2023-07-11 18:48:47,171] INFO _log() L187   * Restarting with stat - call_trace=C:\Users\lauro\Documents\lauro\Sistemas\despesas_app\Lib\site-packages\werkzeug\_internal.py L187 
+[2023-07-11 18:50:04,484] INFO _log() L187  127.0.0.1 - - [11/Jul/2023 18:50:04] "[32mGET / HTTP/1.1[0m" 302 - - call_trace=C:\Users\lauro\Documents\lauro\Sistemas\despesas_app\Lib\site-packages\werkzeug\_internal.py L187 
+[2023-07-11 18:50:04,604] INFO _log() L187  127.0.0.1 - - [11/Jul/2023 18:50:04] "GET /openapi/ HTTP/1.1" 200 - - call_trace=C:\Users\lauro\Documents\lauro\Sistemas\despesas_app\Lib\site-packages\werkzeug\_internal.py L187 
+[2023-07-11 18:50:04,841] INFO _log() L187  127.0.0.1 - - [11/Jul/2023 18:50:04] "[36mGET /openapi/static/images/rapidoc.svg HTTP/1.1[0m" 304 - - call_trace=C:\Users\lauro\Documents\lauro\Sistemas\despesas_app\Lib\site-packages\werkzeug\_internal.py L187 
+[2023-07-11 18:50:04,859] INFO _log() L187  127.0.0.1 - - [11/Jul/2023 18:50:04] "[36mGET /openapi/static/images/redoc.svg HTTP/1.1[0m" 304 - - call_trace=C:\Users\lauro\Documents\lauro\Sistemas\despesas_app\Lib\site-packages\werkzeug\_internal.py L187 
+[2023-07-11 18:50:04,861] INFO _log() L187  127.0.0.1 - - [11/Jul/2023 18:50:04] "[36mGET /openapi/static/images/swagger.svg HTTP/1.1[0m" 304 - - call_trace=C:\Users\lauro\Documents\lauro\Sistemas\despesas_app\Lib\site-packages\werkzeug\_internal.py L187 
+[2023-07-11 18:50:07,454] INFO _log() L187  127.0.0.1 - - [11/Jul/2023 18:50:07] "GET /openapi/swagger HTTP/1.1" 200 - - call_trace=C:\Users\lauro\Documents\lauro\Sistemas\despesas_app\Lib\site-packages\werkzeug\_internal.py L187 
+[2023-07-11 18:50:07,487] INFO _log() L187  127.0.0.1 - - [11/Jul/2023 18:50:07] "[36mGET /openapi/static/css/swagger-ui.css HTTP/1.1[0m" 304 - - call_trace=C:\Users\lauro\Documents\lauro\Sistemas\despesas_app\Lib\site-packages\werkzeug\_internal.py L187 
+[2023-07-11 18:50:07,491] INFO _log() L187  127.0.0.1 - - [11/Jul/2023 18:50:07] "[36mGET /openapi/static/js/swagger-ui-bundle.js HTTP/1.1[0m" 304 - - call_trace=C:\Users\lauro\Documents\lauro\Sistemas\despesas_app\Lib\site-packages\werkzeug\_internal.py L187 
+[2023-07-11 18:50:07,493] INFO _log() L187  127.0.0.1 - - [11/Jul/2023 18:50:07] "[36mGET /openapi/static/js/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 - - call_trace=C:\Users\lauro\Documents\lauro\Sistemas\despesas_app\Lib\site-packages\werkzeug\_internal.py L187 
+[2023-07-11 18:50:07,760] INFO _log() L187  127.0.0.1 - - [11/Jul/2023 18:50:07] "GET /openapi/openapi.json HTTP/1.1" 200 - - call_trace=C:\Users\lauro\Documents\lauro\Sistemas\despesas_app\Lib\site-packages\werkzeug\_internal.py L187 
+[2023-07-11 18:50:18,400] INFO _log() L187  127.0.0.1 - - [11/Jul/2023 18:50:18] "GET /buscar_despesa HTTP/1.1" 200 - - call_trace=C:\Users\lauro\Documents\lauro\Sistemas\despesas_app\Lib\site-packages\werkzeug\_internal.py L187 
+[2023-07-11 18:50:45,286] INFO _log() L187  127.0.0.1 - - [11/Jul/2023 18:50:45] "POST /cadastrar_despesa HTTP/1.1" 200 - - call_trace=C:\Users\lauro\Documents\lauro\Sistemas\despesas_app\Lib\site-packages\werkzeug\_internal.py L187 
+[2023-07-11 18:50:46,310] INFO _log() L187  127.0.0.1 - - [11/Jul/2023 18:50:46] "POST /cadastrar_despesa HTTP/1.1" 200 - - call_trace=C:\Users\lauro\Documents\lauro\Sistemas\despesas_app\Lib\site-packages\werkzeug\_internal.py L187 
+[2023-07-11 18:51:56,493] INFO _log() L187  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.15.9:5000 - call_trace=C:\Users\lauro\Documents\lauro\Sistemas\despesas_app\Lib\site-packages\werkzeug\_internal.py L187 
+[2023-07-11 18:51:56,494] INFO _log() L187  [33mPress CTRL+C to quit[0m - call_trace=C:\Users\lauro\Documents\lauro\Sistemas\despesas_app\Lib\site-packages\werkzeug\_internal.py L187 
+[2023-07-11 18:51:56,496] INFO _log() L187   * Restarting with stat - call_trace=C:\Users\lauro\Documents\lauro\Sistemas\despesas_app\Lib\site-packages\werkzeug\_internal.py L187 
+[2023-07-11 18:53:19,442] INFO _log() L187  127.0.0.1 - - [11/Jul/2023 18:53:19] "[32mGET / HTTP/1.1[0m" 302 - - call_trace=C:\Users\lauro\Documents\lauro\Sistemas\despesas_app\Lib\site-packages\werkzeug\_internal.py L187 
+[2023-07-11 18:53:19,524] INFO _log() L187  127.0.0.1 - - [11/Jul/2023 18:53:19] "GET /openapi/ HTTP/1.1" 200 - - call_trace=C:\Users\lauro\Documents\lauro\Sistemas\despesas_app\Lib\site-packages\werkzeug\_internal.py L187 
+[2023-07-11 18:53:19,779] INFO _log() L187  127.0.0.1 - - [11/Jul/2023 18:53:19] "[36mGET /openapi/static/images/redoc.svg HTTP/1.1[0m" 304 - - call_trace=C:\Users\lauro\Documents\lauro\Sistemas\despesas_app\Lib\site-packages\werkzeug\_internal.py L187 
+[2023-07-11 18:53:19,782] INFO _log() L187  127.0.0.1 - - [11/Jul/2023 18:53:19] "[36mGET /openapi/static/images/swagger.svg HTTP/1.1[0m" 304 - - call_trace=C:\Users\lauro\Documents\lauro\Sistemas\despesas_app\Lib\site-packages\werkzeug\_internal.py L187 
+[2023-07-11 18:53:19,788] INFO _log() L187  127.0.0.1 - - [11/Jul/2023 18:53:19] "[36mGET /openapi/static/images/rapidoc.svg HTTP/1.1[0m" 304 - - call_trace=C:\Users\lauro\Documents\lauro\Sistemas\despesas_app\Lib\site-packages\werkzeug\_internal.py L187 
+[2023-07-11 18:53:22,307] INFO _log() L187  127.0.0.1 - - [11/Jul/2023 18:53:22] "GET /openapi/swagger HTTP/1.1" 200 - - call_trace=C:\Users\lauro\Documents\lauro\Sistemas\despesas_app\Lib\site-packages\werkzeug\_internal.py L187 
+[2023-07-11 18:53:22,332] INFO _log() L187  127.0.0.1 - - [11/Jul/2023 18:53:22] "[36mGET /openapi/static/css/swagger-ui.css HTTP/1.1[0m" 304 - - call_trace=C:\Users\lauro\Documents\lauro\Sistemas\despesas_app\Lib\site-packages\werkzeug\_internal.py L187 
+[2023-07-11 18:53:22,335] INFO _log() L187  127.0.0.1 - - [11/Jul/2023 18:53:22] "[36mGET /openapi/static/js/swagger-ui-bundle.js HTTP/1.1[0m" 304 - - call_trace=C:\Users\lauro\Documents\lauro\Sistemas\despesas_app\Lib\site-packages\werkzeug\_internal.py L187 
+[2023-07-11 18:53:22,336] INFO _log() L187  127.0.0.1 - - [11/Jul/2023 18:53:22] "[36mGET /openapi/static/js/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 - - call_trace=C:\Users\lauro\Documents\lauro\Sistemas\despesas_app\Lib\site-packages\werkzeug\_internal.py L187 
+[2023-07-11 18:53:22,596] INFO _log() L187  127.0.0.1 - - [11/Jul/2023 18:53:22] "GET /openapi/openapi.json HTTP/1.1" 200 - - call_trace=C:\Users\lauro\Documents\lauro\Sistemas\despesas_app\Lib\site-packages\werkzeug\_internal.py L187 
+[2023-07-11 18:53:32,591] INFO _log() L187  127.0.0.1 - - [11/Jul/2023 18:53:32] "GET /buscar_despesa HTTP/1.1" 200 - - call_trace=C:\Users\lauro\Documents\lauro\Sistemas\despesas_app\Lib\site-packages\werkzeug\_internal.py L187 
+[2023-07-11 18:54:33,435] INFO _log() L187  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.15.9:5000 - call_trace=C:\Users\lauro\Documents\lauro\Sistemas\despesas_app\Lib\site-packages\werkzeug\_internal.py L187 
+[2023-07-11 18:54:33,437] INFO _log() L187  [33mPress CTRL+C to quit[0m - call_trace=C:\Users\lauro\Documents\lauro\Sistemas\despesas_app\Lib\site-packages\werkzeug\_internal.py L187 
+[2023-07-11 18:54:33,439] INFO _log() L187   * Restarting with stat - call_trace=C:\Users\lauro\Documents\lauro\Sistemas\despesas_app\Lib\site-packages\werkzeug\_internal.py L187 
+[2023-07-11 18:55:57,643] INFO _log() L187  127.0.0.1 - - [11/Jul/2023 18:55:57] "[32mGET / HTTP/1.1[0m" 302 - - call_trace=C:\Users\lauro\Documents\lauro\Sistemas\despesas_app\Lib\site-packages\werkzeug\_internal.py L187 
+[2023-07-11 18:55:57,722] INFO _log() L187  127.0.0.1 - - [11/Jul/2023 18:55:57] "GET /openapi/ HTTP/1.1" 200 - - call_trace=C:\Users\lauro\Documents\lauro\Sistemas\despesas_app\Lib\site-packages\werkzeug\_internal.py L187 
+[2023-07-11 18:55:57,929] INFO _log() L187  127.0.0.1 - - [11/Jul/2023 18:55:57] "[36mGET /openapi/static/images/rapidoc.svg HTTP/1.1[0m" 304 - - call_trace=C:\Users\lauro\Documents\lauro\Sistemas\despesas_app\Lib\site-packages\werkzeug\_internal.py L187 
+[2023-07-11 18:55:57,980] INFO _log() L187  127.0.0.1 - - [11/Jul/2023 18:55:57] "[36mGET /openapi/static/images/redoc.svg HTTP/1.1[0m" 304 - - call_trace=C:\Users\lauro\Documents\lauro\Sistemas\despesas_app\Lib\site-packages\werkzeug\_internal.py L187 
+[2023-07-11 18:55:57,995] INFO _log() L187  127.0.0.1 - - [11/Jul/2023 18:55:57] "[36mGET /openapi/static/images/swagger.svg HTTP/1.1[0m" 304 - - call_trace=C:\Users\lauro\Documents\lauro\Sistemas\despesas_app\Lib\site-packages\werkzeug\_internal.py L187 
+[2023-07-11 18:56:00,078] INFO _log() L187  127.0.0.1 - - [11/Jul/2023 18:56:00] "GET /openapi/swagger HTTP/1.1" 200 - - call_trace=C:\Users\lauro\Documents\lauro\Sistemas\despesas_app\Lib\site-packages\werkzeug\_internal.py L187 
+[2023-07-11 18:56:00,098] INFO _log() L187  127.0.0.1 - - [11/Jul/2023 18:56:00] "[36mGET /openapi/static/css/swagger-ui.css HTTP/1.1[0m" 304 - - call_trace=C:\Users\lauro\Documents\lauro\Sistemas\despesas_app\Lib\site-packages\werkzeug\_internal.py L187 
